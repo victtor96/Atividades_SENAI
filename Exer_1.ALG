@@ -17,7 +17,7 @@ media <- 0
       se (media >= 7) e (media < 11) entao
       escreval("Aluno aprovado!!")
       fimse
-      se  (media <= 7) e (media>0) entao
+      se  (media < 7) e (media>=0) entao
         escreval("Aluno reprovado")
       fimse
 
