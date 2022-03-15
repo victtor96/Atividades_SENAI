@@ -22,6 +22,8 @@ Inicio
 
    FIMENQUANTO
   media <- soma/(contador -1)
+  escreval("")
+  escreval("Valor final da soma dos",(contador-1)," numeros é ",soma)
   escreval("Valor final da media dos",(contador-1)," numeros é ",media)
 
 Fimalgoritmo
