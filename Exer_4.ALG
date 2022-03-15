@@ -16,7 +16,9 @@ Inicio
      escreval("soma parcial: ",soma)
    fimse
 
-   escreval("Digite 125 para parar a soma ou Digite um valor para somar: ")
+   escreval("Digite um valor para somar.")
+   escreval("Digite 125 para parar sair e mostrar o resultado:")
+   escreval("")
 
    leia(valor)
 
